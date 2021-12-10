@@ -7,6 +7,6 @@ Run "Main.java". Requirements are Java8 and a pc.
 
 "The App goes hard. Feel free to copy-paste my code."
 
-Just make sure to give me credits if you wish to use it or parts of it in your own project.
+- Just make sure to give me credits if you wish to use it or parts of it in your own project.
 
-- Reed -
+~ Reed 
